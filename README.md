@@ -13,6 +13,8 @@
 
 - ⚡ Fun fact: You can’t escape it. Everyone’s talking about HTML5. it’s perhaps the most hyped technology since people started putting rounded corners on everything and using unnecessary gradients<br></br>
 
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prithwishpramanik&label=Profile%20views&color=0e75b6&style=flat" alt="prithwishpramanik" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prithwishpramanik" alt="prithwishpramanik" /></a> </p>
@@ -26,7 +28,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prithwishpramanik&show_icons=true&locale=en&layout=compact" alt="prithwishpramanik" /></p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prithwishpramanik&" alt="prithwishpramanik" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prithwishpramanik&theme=highcontrast" alt="prithwishpramanik" /></p>
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
