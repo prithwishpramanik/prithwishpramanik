@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Web Development(MERN Stack)
 - 🌱 I’m currently learning Reactjs,Nodejs,MongoDB & Machine learning
 - 👯 I’m looking to collaborate on different Web Development Projects 
-- 💬 Ask me about anything
+- 💬 Ask me about anything related to HTML5,CSS,Bootstrap
 - 📫 How to reach me: <a href=prithwishprmanik462@gmail.com>Connect with me</a>
 
 - ⚡ Fun fact: 
