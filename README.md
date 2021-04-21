@@ -5,19 +5,19 @@
 <h1 align="center">"Hi" there !<img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/Hi.gif"width="40px"/>: Welcome to my GitHub 👨‍💻❤️</h1>
 
 
-- 🔭 <b>I’m currently working</b> on Web Development(MERN Stack)
-- 🌱 <b>I’m currently learning</b> Reactjs,Nodejs,MongoDB & Machine learning
-- 👯 <b>I’m looking to collaborate on</b> different Web Development Projects 
-- 💬 <b>Ask me about</b> anything related to HTML5,CSS,Bootstrap
-- 📫 <b>How to reach me</b> **prithwishpramanik462@gmail.com**
+- 🔭 <b>I’m currently working:</b> on Web Development(MERN Stack)
+- 🌱 <b>I’m currently learning:</b> Reactjs,Nodejs,MongoDB & Machine learning
+- 👯 <b>I’m looking to collaborate on:</b> different Web Development Projects 
+- 💬 <b>Ask me about:</b> anything related to HTML5,CSS,Bootstrap
+- 📫 <b>How to reach me:</b> **prithwishpramanik462@gmail.com**
 
-- ⚡ Fun fact: You can’t escape it. Everyone’s talking about HTML5. it’s perhaps the most hyped technology since people started putting rounded corners on everything and using unnecessary gradients<br></br>
+- ⚡ <b>Fun fact:</b> You can’t escape it. Everyone’s talking about HTML5. it’s perhaps the most hyped technology since people started putting rounded corners on everything and using unnecessary gradients<br></br>
 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prithwishpramanik&label=Profile%20views&color=0e75b6&style=flat" alt="prithwishpramanik" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prithwishpramanik" alt="prithwishpramanik" /></a> </p>
+<p margin="4px"  align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prithwishpramanik" alt="prithwishpramanik"/></a> </p>
 
 <h1>⚡ My Stats:<h1/>
 <img src="https://github-readme-stats.vercel.app/api?username=prithwishpramanik&show_icons=true&theme=vision-friendly-dark"><img/>
