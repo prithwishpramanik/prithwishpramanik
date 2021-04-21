@@ -27,3 +27,6 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prithwishpramanik&" alt="prithwishpramanik" /></p>
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
