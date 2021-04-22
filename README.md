@@ -4,6 +4,8 @@
 
 <h1 align="center">"Hi" there !<img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/Hi.gif"width="40px"/>: Welcome to my GitHub 👨‍💻❤️</h1>
 
+<img src="https://github.com/prithwishpramanik/prithwishpramanik/blob/main/Screenshot%20(262).png"><img/>
+
 
 - 🔭 <b>I’m currently working:</b> on Web Development(MERN Stack)
 - 🌱 <b>I’m currently learning:</b> Reactjs,Nodejs,MongoDB & Machine learning
