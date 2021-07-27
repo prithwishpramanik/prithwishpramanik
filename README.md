@@ -4,6 +4,7 @@
 
 <h1 align="center">"Hello" there !<img src="https://media.tenor.com/images/822fb670841c6f6582fefbb82e338a50/tenor.gif"width="50px"/>: Welcome to my GitHub 👨‍💻❤️</h1>
 <img align="right" src="https://magiccopy.xyz/assets/images/hadder.gif" width="500" height="320"><img/>
+<p> <img src="https://komarev.com/ghpvc/?username=prithwishpramanik&label=Profile%20views&color=0e75b6&style=flat" alt="prithwishpramanik" /> </p>
 
 
 - 🔭 <b>I’m currently working:</b> on Web Development(MERN Stack)
@@ -14,7 +15,6 @@
 
 - ⚡ <b>Fun fact:</b> You can’t escape it. Everyone’s talking about HTML5. it’s perhaps the most hyped technology since people started putting rounded corners on everything and using unnecessary gradients<br></br>
 
-<p> <img src="https://komarev.com/ghpvc/?username=prithwishpramanik&label=Profile%20views&color=0e75b6&style=flat" alt="prithwishpramanik" /> </p>
 
 
 <p margin="4px"  align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prithwishpramanik" alt="prithwishpramanik"/></a> </p>
