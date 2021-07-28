@@ -2,7 +2,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Lobster&display=swap" rel="stylesheet">
 
 
-<h1 align="center">"Hello" there !<img src="https://media.tenor.com/images/822fb670841c6f6582fefbb82e338a50/tenor.gif"width="50px"/>: Welcome to my GitHub 👨‍💻❤️</h1>
+<h1 align="center">"Hello" there !<img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/Hi.gif"width="50px"/>: Welcome to my GitHub 👨‍💻❤️</h1>
 <img align="right" src="https://magiccopy.xyz/assets/images/hadder.gif" width="500" height="320"><img/>
 <p> <img src="https://komarev.com/ghpvc/?username=prithwishpramanik&label=Profile%20views&color=0e75b6&style=flat" alt="prithwishpramanik" /> </p>
 
