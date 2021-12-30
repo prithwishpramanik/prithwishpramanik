@@ -3,8 +3,8 @@
 
 
 <h1 align="center">"Hello" there !<img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/Hi.gif"width="50px"/>: Welcome to my GitHub 👨‍💻❤️</h1>
-<p> <img src="https://komarev.com/ghpvc/?username=prithwishpramanik&label=Profile%20views&color=0e75b6&style=flat" alt="prithwishpramanik" /> </p>
 
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/prithwishpramanik?style=social">   <img alt="GitHub followers" src="https://img.shields.io/badge/LinkedIn-205-blue?style=social&logo=linkedin">
 
 - 🔭 <b>I’m currently working:</b> on Web Development(MERN Stack)
 - 🌱 <b>I’m currently learning:</b> Reactjs,Nodejs,MongoDB & Machine learning
@@ -19,6 +19,7 @@
 <p margin="4px"  align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prithwishpramanik" alt="prithwishpramanik"/></a> </p>
 
 <h1>⚡ My Stats:<h1/>
+<link href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prithwishpramanik&theme=dracula" rel="stylesheet">
 <img src="https://github-readme-stats.vercel.app/api?username=prithwishpramanik&show_icons=true&theme=vision-friendly-dark"><img/>
 
 <h2 align="left"><b>👉Languages:<b></h2>
