@@ -18,14 +18,14 @@
 
 <p margin="4px"  align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prithwishpramanik" alt="prithwishpramanik"/></a> </p>
 
-## [SUMMARY](./dracula/README.md)
+### :handshake:MY CONTRIBUTIONS:
 [![](https://raw.githubusercontent.com/prithwishpramanik/prithwishpramanik/main/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/prithwishpramanik/prithwishpramanik/main/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/prithwishpramanik/prithwishpramanik/main/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/prithwishpramanik/prithwishpramanik/main/profile-summary-card-output/dracula/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/prithwishpramanik/prithwishpramanik/main/profile-summary-card-output/dracula/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 <img src="https://github-readme-stats.vercel.app/api?username=prithwishpramanik&show_icons=true&theme=vision-friendly-dark"><img/>
 
   
-Languages  
+## Languages  
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -46,8 +46,3 @@ Languages
 |News-App|Its a news app which gives news about different genres.|https://github.com/prithwishpramanik/News-App|
 |Weather-App|It is A simple Weather app which you can use to get weather of the any city on earth.This App provides you with RealTime Temperature,Description about the weather,Humidity & Windspeed of the searched location|https://prithwishpramanik.github.io/Weather-App/
 |RAIL-info|This is a website which would give various information about different indian trains running between different stations.|https://prithwishpramanik.github.io/RAIL-info/
-<h1>:handshake:My Contributions:<h1/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prithwishpramanik&show_icons=true&locale=en&layout=compact" alt="prithwishpramanik"/></p>
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=prithwishpramanik&theme=highcontrast" alt="prithwishpramanik" /></p>
-
-
