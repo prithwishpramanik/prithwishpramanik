@@ -24,7 +24,7 @@
 [![](https://raw.githubusercontent.com/prithwishpramanik/prithwishpramanik/main/profile-summary-card-output/dracula/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/prithwishpramanik/prithwishpramanik/main/profile-summary-card-output/dracula/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
   
-## Languages  
+## ⚙️ TECH-STACKS 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -33,7 +33,7 @@
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
     
-<h3 align="left"><b>👉Tools:<b></h3>
+<h3 align="left"><b>🛠️Tools:<b></h3>
   <a><img src="https://github.com/prithwishpramanik/prithwishpramanik/blob/main/icon-webstorm.png" alt="bootstrap" width="40" height="40"/>
     
     
