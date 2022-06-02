@@ -2,7 +2,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Lobster&display=swap" rel="stylesheet">
 
 
-<h1 align="center">"Hello" there !<img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/Hi.gif"width="50px"/>: Welcome to my GitHub 👨‍💻❤️</h1>
+<h1 align="center">"Hello" there !<img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/Hi.gif"width="50px"height="50px"/>: Welcome to my GitHub 👨‍💻❤️</h1>
 
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/prithwishpramanik?style=social">   <img alt="GitHub followers" src="https://img.shields.io/badge/LinkedIn-205-blue?style=social&logo=linkedin">
 
