@@ -4,7 +4,7 @@
 
 <h1 align="center">"Hello" there !<img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/Hi.gif"width="50px"height="50px"/>: Welcome to my GitHub 👨‍💻❤️</h1>
 
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/prithwishpramanik?style=social">   <img alt="GitHub followers" src="https://img.shields.io/badge/LinkedIn-205-blue?style=social&logo=linkedin">
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/prithwishpramanik?style=social">   <img alt="GitHub followers" src="https://img.shields.io/badge/LinkedIn-224-blue?style=social&logo=linkedin">
 
 - 🔭 <b>I’m currently working:</b> on Web Development(MERN Stack)
 - 🌱 <b>I’m currently learning:</b> Reactjs,Nodejs,MongoDB & Machine learning
